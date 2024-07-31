@@ -62,7 +62,7 @@ This project conducts a comprehensive analysis of Hyundai's stock performance us
 5. Execute the SQL scripts for additional insights
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page]([link-to-your-issues-page](https://github.com/Oshbaby/Hyandai-Stock-Analysis/issues)) if you want to contribute.
 
 ## Author
 [Osho Emmanuel]
