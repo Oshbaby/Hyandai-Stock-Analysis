@@ -18,7 +18,7 @@ This project conducts a comprehensive analysis of Hyundai's stock performance us
 - Jupyter Notebook
 - Libraries: pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, statsmodels, Prophet, pmdarima
 - SQL
-- PowerBI (for visualization dashboard - upcoming)
+- PowerBI 
 
 ## Project Structure
 1. **Data Extraction and Preprocessing**: 
@@ -45,8 +45,9 @@ This project conducts a comprehensive analysis of Hyundai's stock performance us
    - Time series forecasting with ARIMA and Prophet
    - Predictive modeling using Random Forest and Neural Networks
 
-6. **Visualization** (Upcoming):
+6. **Visualization**:
    - Interactive dashboard in PowerBI
+   - [PowerBI Dashboard ]([link-to-your-BI-Dashboard](https://app.powerbi.com/groups/me/reports/0e1e3170-ec06-4f54-b10f-33ea484c364e/ReportSection7d58566dd60a0b1e08d2?experience=power-bi))
 
 
 ## Future Work
